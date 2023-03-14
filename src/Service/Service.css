@@ -1,0 +1,277 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap');
+
+*{
+    font-family: 'Mulish', sans-serif;
+}
+
+.servicemain{
+    width: 52vw;
+    height: auto;
+}
+#row-1{
+    align-items: center;
+    height: 85vh;
+}
+
+#service_title h1 span{
+    color: #8790e7;
+}
+#letgo{
+    text-decoration: none;
+    padding: 7px 25px;
+    border: #8790e7 2px solid;
+    border-radius: 20px;
+}
+#letgo:hover{
+    background-color: #8790e7;
+    cursor: pointer;
+    color: #FFF;
+    transition: 0.3s ease-in;
+}
+#our_service span{
+    color: #8790e7;
+}
+#card-1{
+    width: 22rem;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.1);
+}
+#card-1:hover{
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.4);
+    cursor: pointer;
+    transition: 0.3s ease;
+    margin-top: -10px;
+}
+#card-2{
+    width: 22rem;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.1);
+}
+#card-2:hover{
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.4);
+    cursor: pointer;
+    transition: 0.3s ease;
+    margin-top: -10px;
+}
+#card-3{
+    width: 22rem;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.1);
+}
+#card-3:hover{
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.4);
+    cursor: pointer;
+    transition: 0.3s ease;
+    margin-top: -10px;
+}
+#Data_Analytics{
+    width: 264px;
+    height: auto;
+    margin-left: 39px;
+}
+#row2{
+    justify-content: space-around;
+}
+#row3{
+    justify-content: space-around;
+}
+
+#growth {
+    width: 308px;
+    height: auto;
+    margin-left: 12px;
+}
+#stock {
+    width: 280px;
+    height: auto;
+    margin-left: 23px;
+}
+#card-4{
+    width: 22rem;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.1);
+}
+#card-4:hover{
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.4);
+    cursor: pointer;
+    transition: 0.3s ease;
+    margin-top: -10px;
+}
+#card-5{
+    width: 22rem;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.1);
+}
+#card-5:hover{
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.4);
+    cursor: pointer;
+    transition: 0.3s ease;
+    margin-top: -10px;
+}
+#card-6{
+    width: 22rem;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.1);
+}
+#card-6:hover{
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.4);
+    cursor: pointer;
+    transition: 0.3s ease;
+    margin-top: -10px;
+}
+
+/* Responsiveness Start */
+
+@media only screen and (min-width: 1200px) {
+    #card-4{
+        margin-bottom: 50px;
+    }
+    #card-5{
+        margin-bottom: 50px;
+    }
+    #card-6{
+        margin-bottom: 50px;
+    }
+}
+@media only screen and (max-width: 1199px) {
+    #service_title{
+        margin-left: 345px;
+        margin-top: 3px;
+    }
+    #our_service{
+        margin-top: 40px;
+    }
+    #row-1 {
+        height: 89vh;
+    }
+}
+@media only screen and (max-width: 1099px){
+    #service_title{
+        margin-left: 305px;
+    }  
+} 
+@media only screen and (max-width: 1000px){
+    #service_title{
+        margin-left: 265px;
+        margin-top: -55px;
+    }    
+}
+@media only screen and (max-width: 900px){
+    #service_title {
+        margin-left: 232px;
+        margin-top: -91px;
+    }
+}
+@media only screen and (max-width: 800px){
+    #service_title {
+        margin-left: 195px;
+        margin-top: -103px;
+    }
+    #our_service {
+        margin-top: 15px;
+    }
+}
+@media only screen and (max-width: 750px){
+    #service_title {
+        margin-left: 153px;
+        margin-top: -45px;
+    }
+    .servicemain{
+        width: 565px;
+        height: auto;
+    } 
+}
+@media only screen and (max-width: 675px){
+    .servicemain {
+        width: 522px;
+        height: auto;
+    }
+    #service_title {
+        margin-left: 115px;
+        margin-top: -68px;
+    }
+}
+@media only screen and (max-width: 600px){
+    .servicemain {
+        width: 465px;
+        height: auto;
+    }
+    #service_title {
+        margin-left: 85px;
+        margin-top: -108px;
+    }
+    #our_service {
+        margin-top: -10px;
+    }
+}
+@media only screen and (max-width: 550px){
+    #card-6{
+        margin-bottom: 46px;
+    }
+}
+@media only screen and (max-width: 550px){
+    #service_title p{
+        font-size: 13px;
+    }
+    .servicemain {
+        width: 446px;
+        height: auto;
+    }
+    #service_title {
+        margin-left: 77px;
+        margin-top: -137px;
+    }
+}
+@media only screen and (max-width: 475px){
+    #service_title {
+        margin-left: 53px;
+        margin-top: -165px;
+    }
+    .servicemain {
+        width: 400px;
+        height: auto;
+    }
+}
+@media only screen and (max-width: 425px){
+    #service_title h1 {
+        font-size: 24px;
+    }
+    .servicemain {
+        width: 344px;
+        height: auto;
+    }
+    #service_title {
+        margin-left: 53px;
+        margin-top: -182px;
+    }
+    #service_title p{
+        font-size: 11px;
+    }
+    #letgo {
+        padding: 4px 16px;
+        font-size: 14px;
+    }
+    #our_service {
+        margin-top: -75px;
+    }
+    
+}
+@media only screen and (max-width: 390px){
+    #service_title h1{
+        font-size: 22px;
+    }
+    #service_title p{
+        font-size: 10px;
+    }
+    #our_service {
+        margin-top: -99px;
+        font-size: 25px;
+    }
+
+}

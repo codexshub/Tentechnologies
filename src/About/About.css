@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap');
+
+*{
+    font-family: 'Mulish', sans-serif;
+}
+
+#linkedin{
+    width: 30px;
+    height: auto;
+}
+#insta{
+    width: 30px;
+    height: auto;
+}
+#github{
+    width: 30px;
+    height: auto;
+}
+#twitter{
+    width: 30px;
+    height: auto;
+}
+#Aboutus{
+    width: 500px;
+    height: auto;
+}
+#row-5{
+    align-items: center;
+    height: 89vh;
+}
+#social_media{
+    display: flex;
+    justify-content: space-between;
+}
+#about_title h1 span{
+    color: #8790e7;
+}
+#about_title p span{
+    color: #8790e7;
+}
+
+/* Responsiveness Start */
+
+@media only screen and (max-width: 1200px) {
+    #row-5{
+        height: 76vh;
+    }
+}
+@media only screen and (max-width: 992px) {
+    #about_page{
+        margin-left: 247px;
+    }
+}
+@media only screen and (max-width: 925px) {
+    #about_page{
+        margin-left: 218px;
+    }  
+}
+@media only screen and (max-width: 875px) {
+    #about_page {
+        margin-left: 198px;
+    }
+}
+@media only screen and (max-width: 855px) {
+    #about_page {
+        margin-left: 177px;
+    }
+}
+@media only screen and (max-width: 785px) {
+    #about_page {
+        margin-left: 160px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    #Aboutus {
+        width: 385px;
+        height: auto;
+    }
+    #about_title h1{
+        font-size: 30px;
+    }
+    #about_title p{
+        font-size: 13px;
+    }
+    #about_page {
+        margin-left: 189px;
+    }
+}
+@media only screen and (max-width: 740px) {
+    #about_page {
+        margin-left: 167px;
+    }
+}
+@media only screen and (max-width: 690px) {
+    #about_page {
+        margin-left: 143px;
+    }
+}
+@media only screen and (max-width: 645px) {
+    #about_page {
+        margin-left: 124px;
+    }
+}
+@media only screen and (max-width: 600px) {
+    #about_page {
+        margin-left: 98px;
+    }
+}
+@media only screen and (max-width: 577px) {
+    #row-5 {
+        height: 90vh;
+    }
+    #about{
+        margin-top: -115px;
+    }
+}
+@media only screen and (max-width: 550px) {
+    #about_page {
+        margin-left: 69px;
+    }
+}
+@media only screen and (max-width: 500px) {
+    #about_page {
+        margin-left: 49px;
+    }
+    #about_title h1 {
+        font-size: 27px;
+    }
+    #about_title p {
+        font-size: 11px;
+    }
+    #linkedin {
+        width: 20px;
+        height: auto;
+    }#insta {
+        width: 20px;
+        height: auto;
+    }#github {
+        width: 20px;
+        height: auto;
+    }#twitter {
+        width: 20px;
+        height: auto;
+    }
+    #Aboutus {
+        width: 328px;
+        height: auto;
+    }
+    #about {
+        margin-top: -196px;
+    }
+    #social_media {
+        margin-top: -12px;
+    }
+}
+@media only screen and (max-width: 450px) {
+    #about_title h1 {
+        font-size: 25px;
+    }
+    #about_title p {
+        font-size: 10px;
+    }
+}
+@media only screen and (max-width: 415px) {
+    #about_page {
+        margin-left: 33px;
+    }
+}
+@media only screen and (max-width: 400px) {
+    #about_title h1 {
+        font-size: 23px;
+    }
+}
+@media only screen and (max-width: 365px) {
+    #Aboutus {
+        width: 252px;
+        height: auto;
+    }
+    #about {
+        margin-top: -277px;
+    }
+    #about_title h1 {
+        font-size: 21px;
+    }
+    #about_title p {
+        font-size: 9px;
+    }
+}

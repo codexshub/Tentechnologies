@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;600;700;800&display=swap');
+
+*{
+    font-family: 'Mulish', sans-serif;
+}
+#container{
+    margin-top: -2vh;
+}
+.copyright{
+    font-size: 13px;
+    background-color: whitesmoke;
+}
+.copyright p span:hover{
+    color: #8790e7;
+    cursor: pointer;
+}
+
+
+/* Responsiveness start */
+
+@media only screen and (max-width: 1200px) {
+    #container{
+        margin-top: 10vh;
+    }
+}
+@media only screen and (max-width: 576px) {
+    #container{
+        margin-top: -3.1vh;
+    }
+    
+}
+@media only screen and (max-width: 510px) {
+    .copyright{
+        font-size: 10px;
+    }
+}
