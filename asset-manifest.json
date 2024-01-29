@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Tentechnologies/static/css/main.0560ba7b.css",
+    "main.js": "/Tentechnologies/static/js/main.9f23f3ea.js",
+    "static/media/servicemain.jpg": "/Tentechnologies/static/media/servicemain.0a4893421f4eb80a395c.jpg",
+    "static/media/stock.jpg": "/Tentechnologies/static/media/stock.b9ce0d5844dbeca91470.jpg",
+    "static/media/youtube.jpg": "/Tentechnologies/static/media/youtube.30a3c015fc46357402ca.jpg",
+    "static/media/growth.jpg": "/Tentechnologies/static/media/growth.5ca18e87294f7dc90015.jpg",
+    "static/media/contact-us.jpg": "/Tentechnologies/static/media/contact-us.2f2d4b87aabe2598ae94.jpg",
+    "static/media/data.jpg": "/Tentechnologies/static/media/data.cd0e889b87998b68416c.jpg",
+    "static/media/seo.jpg": "/Tentechnologies/static/media/seo.c4b505dd3a869dc982e9.jpg",
+    "static/media/instagram.png": "/Tentechnologies/static/media/instagram.8e408da00539cdef4629.png",
+    "static/media/Aboutus-img.jpg": "/Tentechnologies/static/media/Aboutus-img.276e2de9f79e4ce47b49.jpg",
+    "static/media/webdev.jpg": "/Tentechnologies/static/media/webdev.044dabe6b0f9b636d09e.jpg",
+    "static/media/sky.png": "/Tentechnologies/static/media/sky.9b216f4ab986fb39b2c1.png",
+    "static/media/github.png": "/Tentechnologies/static/media/github.f3d873d71aa989badfd2.png",
+    "static/media/Rocket.png": "/Tentechnologies/static/media/Rocket.e6e1ea2a1221b8bc3f14.png",
+    "static/media/linkedin.png": "/Tentechnologies/static/media/linkedin.d21b834035baa551e886.png",
+    "static/media/twitter.png": "/Tentechnologies/static/media/twitter.802534bf2678c3afb41d.png",
+    "index.html": "/Tentechnologies/index.html",
+    "main.0560ba7b.css.map": "/Tentechnologies/static/css/main.0560ba7b.css.map",
+    "main.9f23f3ea.js.map": "/Tentechnologies/static/js/main.9f23f3ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0560ba7b.css",
+    "static/js/main.9f23f3ea.js"
+  ]
+}
